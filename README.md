@@ -1,4 +1,4 @@
-##project
+## project
 1.	Project <name of the project> is created by SimplilearnGithubTraining account 
 2.	Fork the project
 3.	Pull the project to Git 
